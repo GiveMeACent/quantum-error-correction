@@ -1,7 +1,6 @@
 # Quantum Error Correction with Qiskit
 
-This project delves into the theory of **quantum error correction codes (QEC)** and implements famous error correcting codes using **Qiskit**.  
-The goal is to demonstrate how quantum information can be protected from noise through encoding, syndrome extraction, error correction, and decoding.
+This project delves into the theory of **quantum error correction codes (QEC)** and implements famous error correcting codes using **Qiskit**. The goal is to demonstrate how quantum information can be protected from noise through encoding, syndrome extraction, error correction, and decoding. This project is intended for educational purposes only. All references to articles and documentation are cited in the notebook.
 
 ## Implemented Codes
 - **2- and 3-qubit codes**: bit-flip and phase-flip (introductory examples)
