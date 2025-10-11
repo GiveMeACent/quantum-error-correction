@@ -13,9 +13,9 @@ Each code follows the same pipeline:
 2. **Encoding** of the logical qubit
 3. **Error injection** (bit-flip, phase-flip, or both)
 4. **Syndrome extraction**
-5. **Error correction** (unitary or measurement-based)
+5. **Error correction** (unitary)
 6. **Decoding**
-7. **Fidelity evaluation**.
+7. **Fidelity evaluation** (for Shor and 5-qubit codes).
 
 ## Results
 This notebook demonstrates that, under ideal conditions, these codes successfully protect one qubit from an arbitrary error.
